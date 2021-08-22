@@ -13,7 +13,7 @@ The details include:<br>
 
 When a country name is selected , along with the basic information the counrty's flag too is displayed.
 
-Take a look at [link](abc) and give it a try.
+Take a look at [Country infos](https://codepen.io/vaishak10/full/mdmYLdq) and give it a try.
 
 ## Snapshots
 
