@@ -6,6 +6,11 @@ For more details on how to play this game refer [simon-game-rules](https://www.u
 
 Simon game implementation url: [Simon-game](https://codepen.io/vaishak10/full/bGRpezx)
 
+## Snapshots
+
+![simon-game-home](./snap1.png)
+![simon-game-start](./snap2.png)
+
 ## Technologies used
 - HTML
 - CSS
