@@ -33,4 +33,4 @@ JQuery documentation to know more in depth about these api's and many other's: <
 2. [w3schools-Jquery](https://www.w3schools.com/jquERy/default.asp)
 
 ## Credits
-This game is a project based on one of the modules of `The Complete Web Development Bootcamp` by Angela Yu. 
+This game is a project based on the Jquery module of `The Complete Web Development Bootcamp` by Angela Yu. 
