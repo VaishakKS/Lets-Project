@@ -12,7 +12,7 @@ Simon game implementation url: [Simon-game](https://codepen.io/vaishak10/full/bG
 - Javascript
 - Jquery
 
-## What is learned
+## What I learned
 Have worked with lot of DOM manipulating methods ,but this time wanted to implement DOM manipulation using JQuery Api's which reduces code length. Some of the Jquery api's used in this project are:
 1. `text()`
 2. `addClass()`
