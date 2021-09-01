@@ -4,3 +4,4 @@ This repo is a collection of mini projects that I will be committing, cause why 
 ## projects - 101
 
 1. [Customer Infos](Country-Infos)
+2. [Simon Game](Simon-game)
