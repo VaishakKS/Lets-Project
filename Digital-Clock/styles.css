@@ -1,0 +1,15 @@
+body,html {
+    height: 100%;
+    display: grid;
+    margin:0;
+    overflow: hidden;
+}
+.clock{
+    padding: 25px;
+    border-top: 20px solid rgb(30,30,30);
+    border-bottom: 20px solid rgb(30,30,30);
+    border-left: 20px solid rgb(50,50,50);
+    border-right: 20px solid rgb(50,50,50);
+    margin: auto;
+    text-align: center;
+}
