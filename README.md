@@ -6,3 +6,4 @@ Check out [Let's project](https://codepen.io/collection/bNGvGp) which is a colle
 
 1. [Country Infos](Country-Infos)
 2. [Simon Game](Simon-game)
+3. [Keyboard KeyCodes](https://github.com/VaishakKS/keyboard-keyCodes)
